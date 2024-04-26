@@ -1,2 +1,3 @@
-# Acceso-datos_PAC-4_-UF3-_Actividad-desarrollo_ECLIPSE-MAVEN
- Aplicación en Java utilizando Hibernate para gestionar unabiblioteca, permitiendo la manipulación de datos relacionados con Libros, Lectores(usuarios de la biblioteca) y las relaciones entre ellos, como los préstamos de libros.
+# Acceso-datos_Sockets_y_Servicios_de_Red.
+
+ Aplicación en Java utilizando Hibernate para gestionar una biblioteca, permitiendo la manipulación de datos relacionados con Libros, Lectores(usuarios de la biblioteca) y las relaciones entre ellos, como los préstamos de libros.
